@@ -1,0 +1,12 @@
+{
+  "checked_on": "2026-10-30",
+  "asset_hashes_and_manifest": "passed",
+  "nine_row_pixel_equality": "passed",
+  "dry_run_writes_nothing": "passed",
+  "clean_install_copies_only_two_files": "passed",
+  "identical_reinstall_is_noop": "passed",
+  "conflicting_install_preserves_existing_files": "passed",
+  "private_owner_metadata_scan": "passed",
+  "live_host_playback": "not tested",
+  "codex_format_source_commit": "13ab0b254e7b9ed0ab473d38d978fa100bf417ae"
+}

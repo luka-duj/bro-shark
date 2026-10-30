@@ -1,0 +1,61 @@
+{
+  "name": "Bro Shark",
+  "created": "2026-10-30",
+  "artwork": "Generated with OpenAI image generation; selected and refined through human review.",
+  "cell": {
+    "width": 192,
+    "height": 208
+  },
+  "compatibility": {
+    "codex_local": {
+      "path": "pets/bro-shark/spritesheet.png",
+      "width": 1536,
+      "height": 1872,
+      "columns": 8,
+      "rows": 9,
+      "populated_frames": 57
+    },
+    "extended_master": {
+      "path": "assets/bro-shark-v2.png",
+      "width": 1536,
+      "height": 2288,
+      "columns": 8,
+      "rows": 11,
+      "populated_frames": 73
+    }
+  },
+  "files": {
+    "assets/bro-shark-v2.png": {
+      "sha256": "352fb6b4afd98fb057946c3211b19c4ee79c2974f3d3ee3578a142f2a6b6da66",
+      "bytes": 1862454
+    },
+    "pets/bro-shark/spritesheet.png": {
+      "sha256": "da97f37186c5a9df034012177a14368a8e92c790f5aa0f73b71cf4840a1f37a6",
+      "bytes": 1435209
+    },
+    "previews/all-states.gif": {
+      "sha256": "f858f9e7fae5b7d5a7b4fba12621afd4e56dc754d77d8920f8987fd6606ec3d0",
+      "bytes": 777889
+    },
+    "previews/contact-sheet.png": {
+      "sha256": "d400066847303d8569e4a4f2cb7cd3c2363a7f137425a0f2a1671ad68ac8bb2d",
+      "bytes": 571474
+    },
+    "previews/look-directions.png": {
+      "sha256": "c57d7c998d3b3165c1b7f7e6726fc31af1372326f619d44cc45d3811eafdc359",
+      "bytes": 619961
+    },
+    "previews/look-loop.gif": {
+      "sha256": "6f6726092643b7a15c446d288cbe47edddbfd2ac2b0e69ccec2d9492675f2368",
+      "bytes": 97589
+    },
+    "previews/motion-stills.png": {
+      "sha256": "b927f4ad3464e89526e04d7a74d52c7a572180792656631cb81b8c98bd1f12d4",
+      "bytes": 153365
+    },
+    "previews/running-right.gif": {
+      "sha256": "c4dde063189483c5df32915e6467ece370a517551c5a26ac929ee7c619742323",
+      "bytes": 48301
+    }
+  }
+}

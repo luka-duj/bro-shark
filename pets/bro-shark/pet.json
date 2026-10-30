@@ -1,0 +1,12 @@
+{
+  "id": "bro-shark",
+  "displayName": "Bro Shark",
+  "description": "A pixel rockstar shark with black sunglasses, smiling teeth, swimming fins, and Bro! comic action bubbles.",
+  "spritesheetPath": "spritesheet.png",
+  "frame": {
+    "width": 192,
+    "height": 208,
+    "columns": 8,
+    "rows": 9
+  }
+}
