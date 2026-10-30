@@ -1,6 +1,6 @@
 # Bro Shark for Codex
 
-A cool pixel shark with black sunglasses, a toothy smile, swimming fin strokes, and **Bro!** comic action bubbles.
+Bro Shark is an animated pixel-art pet for Codex with black sunglasses, a toothy grin, swimming fin strokes, and **Bro!** comic action bubbles. This repository includes ready-to-import sprite sheets, animation previews, an installer, and guides for the Pets plugin and the app's Create pet workflow.
 
 ![Bro Shark animation](previews/all-states.gif)
 
@@ -94,11 +94,3 @@ Artwork was generated with OpenAI image generation and refined through user revi
 ## License
 
 [MIT](LICENSE).
-
-## What may be missing or uncertain
-
-- Local manifest compatibility is grounded in the [OpenAI Codex loader source](https://github.com/openai/codex/blob/13ab0b254e7b9ed0ab473d38d978fa100bf417ae/codex-rs/tui/src/pets/model.rs). Desktop discovery varies by app build; follow the assisted route if needed.
-- Installation checks do not substitute for testing live dragging or playback on every operating system.
-- GIF previews are included; there is no MP4 export.
-
-For current platform behavior, see [OpenAI's Pets documentation](https://learn.chatgpt.com/docs/pets).
